@@ -2,8 +2,6 @@
 
 **Introducing MERN Ecommerce**, a full-stack web application built to revolutionize your online shopping experience! Powered by the MERN stack (MongoDB, Express.js, React, Node.js), Redux Toolkit for smooth state management, and the visually stunning Material UI, this project offers a seamless and feature-rich platform for both users and admins.
 
-![ecommerce-homepage](https://res.cloudinary.com/dh5fjdce9/image/upload/v1707365755/front_inhzp9.png)
-
 * **Become a product connoisseur:** Write, edit, and delete reviews with real-time updates reflecting on average rating, total count, and individual star percentages.
 * **Wishlist like a pro:** Add, remove, and annotate products, remembering why you loved them with personalized notes.
 * **Effortless order management:** Create and view order history for a clear picture of your shopping journey.
@@ -148,6 +146,3 @@ Once both servers are running, you can access them at the following URL's:
 
 ## **Bonus**
 Don't forget to star the repository and share your feedback!✨
-
-## Authors
-- [@RishiBakshii](https://github.com/RishiBakshii)
